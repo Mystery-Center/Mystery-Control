@@ -1,5 +1,0 @@
-local Games = {
-	[1268927906] = ""
-}
- 
-return Games
