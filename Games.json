@@ -1,1 +1,36 @@
-
+{
+  "games": [
+    {
+      "name": "BrookHaven",
+      "icon": "rbxassetid://5272804084",
+      "gameIds": [1537690962],
+      "placeIds": [4924922222],
+      "teleportId": 4924922222,
+      "loaderUrl": ""
+    },
+    {
+      "name": "Muscle Legends",
+      "icon": "rbxassetid://4499761686",
+      "gameIds": [4499761686],
+      "placeIds": [3623096087],
+      "teleportId": 3623096087,
+      "loaderUrl": ""
+    },
+    {
+      "name": "Legends Of Speed",
+      "icon": "rbxassetid://3101667897",
+      "gameIds": [1119466531],
+      "placeIds": [3101667897],
+      "teleportId": 3101667897,
+      "loaderUrl": ""
+    },
+    {
+      "name": "Ninja Legends",
+      "icon": "rbxassetid://3956818381",
+      "gameIds": [1335695570],
+      "placeIds": [3956818381],
+      "teleportId": 3956818381,
+      "loaderUrl": ""
+    }
+  ]
+}
