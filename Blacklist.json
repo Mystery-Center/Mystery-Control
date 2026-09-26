@@ -1,6 +1,6 @@
 [
   123456,
   "1.2.3.4",
-  {"userId": 9399511723, "reason": "Leaking scripts"},
+  {"userId": 1234567, "reason": "Leaking scripts"},
   {"ip": "5.6.7.*", "reason": "Ban evasion"}
 ]
