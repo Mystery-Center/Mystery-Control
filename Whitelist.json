@@ -1,9 +1,4 @@
-[
-    "GTO_CRXS",
-    "elpepe2929290",
-    "Koby20255",
-    "Mex_ej",
-    "Johanx7_12",
-    "CRXS9818",
-    "MissSherya"
-]
+{
+  "users": [123456, 987654],
+  "ips": ["1.2.3.4", "5.6.7.*"]
+}
