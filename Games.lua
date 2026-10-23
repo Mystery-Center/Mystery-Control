@@ -11,7 +11,7 @@ pcall(function()
 end)
 
 local Games: { [number]: string } = {
-	[1268927906] = "https://raw.githubusercontent.com/Mystery-Center/Mystery-Games/refs/heads/main/Muscle%20Legends.lua",
+	[1268927906] = "https://raw.githubusercontent.com/Mystery-Center/Roblox-Games/refs/heads/main/Muscle%20Legends.lua",
 	[3317771874] = "",
 	[2440500124] = "",
 }
