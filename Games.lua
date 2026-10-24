@@ -8,9 +8,9 @@ pcall(function()
     end
 end)
 local Games = {
-    [1268927906] = "https://raw.githubusercontent.com/Mystery-Center/Roblox-Games/refs/heads/main/Muscle%20Legends.lua",
-    [3317771874] = "",
-    [2440500124] = "",
+    [1268927906] = "https://raw.githubusercontent.com/Mystery-Center/Roblox-Games/refs/heads/main/Muscle%20Legends.lua", -- Muscle Legends
+    [66654135] = "https://raw.githubusercontent.com/Mystery-Center/Roblox-Games/refs/heads/main/Murder%20Mystery%202.lua", -- Murder Mystery 2
+    [2440500124] = "", -- Soon New Game 
 }
 local URL = Games[GameId]
 if not URL or URL == "" then return end
