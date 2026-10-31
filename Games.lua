@@ -12,7 +12,7 @@ end)
 local Games = {
     [1268927906] = "https://raw.githubusercontent.com/Mystery-Center/Roblox-Games/refs/heads/main/Muscle%20Legends.lua", -- Muscle Legends
     [66654135] = "https://raw.githubusercontent.com/Mystery-Center/Roblox-Games/refs/heads/main/Murder%20Mystery%202.lua", -- Murder Mystery 2
-    [537413528] = "https://raw.githubusercontent.com/Mystery-Center/Roblox-Games/main/Build%20A%20Boat%20For%20Teasure.lua", -- Build A Boat For Treasure
+    [210851291] = "https://raw.githubusercontent.com/Mystery-Center/Roblox-Games/main/Build%20A%20Boat%20For%20Teasure.lua", -- Build A Boat For Treasure
 }
 
 local URL = Games[GameId]
